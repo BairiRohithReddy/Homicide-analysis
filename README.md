@@ -24,13 +24,13 @@ To replicate this analysis effortlessly:
 <ol>
   <li>
     Install necessary libraries by running:
-        ```
-        !pip install numpy
-        !pip install pandas
-        !pip install matplotlib
-        !pip install plotly
-        !pip install seaborn
-        ```
+    ```
+    !pip install numpy
+    !pip install pandas
+    !pip install matplotlib
+    !pip install plotly
+    !pip install seaborn
+    ```
   </li>
   <li>Copy the provided code into a Python script.</li>
   <li>Ensure the dataset "homicide_by_countries.csv" is in the same directory.</li>
