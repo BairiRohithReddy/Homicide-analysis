@@ -21,20 +21,15 @@ Summarized counts are visualized through bar plots and treemaps for better under
 
 ## Reproducing the Analysis
 To replicate this analysis effortlessly:
-<ol>
-  <li>
-    Install necessary libraries by running:
-    ```
-    !pip install numpy
-    !pip install pandas
-    !pip install matplotlib
-    !pip install plotly
-    !pip install seaborn
-    ```
-  </li>
-  <li>Copy the provided code into a Python script.</li>
-  <li>Ensure the dataset "homicide_by_countries.csv" is in the same directory.</li>
-  <li>Run the script to perform data analysis and visualize the findings.</li>
+1. Install necessary libraries by running:
 
-
-</ol>
+```
+!pip install numpy
+!pip install pandas
+!pip install matplotlib
+!pip install plotly
+!pip install seaborn
+```
+2. Copy the provided code into a Python script.
+3. Ensure the dataset "homicide_by_countries.csv" is in the same directory.
+4. Run the script to perform data analysis and visualize the findings.
